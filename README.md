@@ -1,7 +1,7 @@
 #  Clinical Data Exploration & Patient Outcomes Dashboard
 
-A -layered oncology cohorts, visualize longitudinal clinical 
-outcomes, medication regimens and tumor marker detected.
+A layered oncology RWD, visualize longitudinal clinical 
+outcomes, medication regimens and tumor markers.
 
 ---
 
@@ -22,7 +22,7 @@ outcomes, medication regimens and tumor marker detected.
 ```
 ---
 
-## 🚀 Local Run and Execution
+## Local Run and Execution
 
 1. Clone your clinical repository locally:
    ```bash
