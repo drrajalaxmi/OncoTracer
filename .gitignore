@@ -1,0 +1,31 @@
+# --- R Core and Workspace History ---
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+.Rproj.user/
+
+# --- Shiny and Server Run Artifacts ---
+# Exclude cached data layers, logs, and connection secrets
+.shinystraps/
+rsconnect/
+*.log
+www/shared/
+
+# --- Data Privacy and Analytics (Critical for PHI) ---
+# Never upload patient clinical data files to public GitHub repositories
+data/
+output/
+*.pdf
+server_old.R
+ui_old.R
+
+# --- Compiled Code and Packages ---
+# Local package libraries and binary structures
+.Rapp.history
+*.o
+*.so
+*.dll
+libs/
+.libPaths/
+
