@@ -16,8 +16,7 @@ outcomes, medication regimens and tumor marker detected.
 │   ├── bar_plots.R         # Logic wrappers for plotly histogram renderers
 │   ├── cachexia.R          # Vital trajectory calculators and peak scoring scripts
 │   ├── timeline.R          # Timevis temporal layout script configurations
-|    ├── timeline.R          # Timevis temporal layout script configurations
-|    └── medications.R       # Parallel alluvial and Sankey tracking modules
+|   └── medications.R       # Parallel alluvial and Sankey tracking modules
 |── www/                    # UI stylesheets and static media assets
 
 ```
